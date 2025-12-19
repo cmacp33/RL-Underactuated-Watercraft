@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fizzer/gym_gazebo_ws/devel/setup.sh

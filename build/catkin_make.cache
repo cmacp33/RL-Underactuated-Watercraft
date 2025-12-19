@@ -1,0 +1,2 @@
+boat_gazebo:usv_gazebo_plugins:wave_gazebo_plugins
+-DCATKIN_DEVEL_PREFIX=/home/fizzer/gym_gazebo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/fizzer/gym_gazebo_ws/install -G Unix Makefiles
